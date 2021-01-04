@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Profile/static/css/main.d42b465c.chunk.css",
+    "main.js": "/Profile/static/js/main.d6b5c610.chunk.js",
+    "main.js.map": "/Profile/static/js/main.d6b5c610.chunk.js.map",
+    "runtime-main.js": "/Profile/static/js/runtime-main.b83a0fb6.js",
+    "runtime-main.js.map": "/Profile/static/js/runtime-main.b83a0fb6.js.map",
+    "static/css/2.267ffeee.chunk.css": "/Profile/static/css/2.267ffeee.chunk.css",
+    "static/js/2.e7d0fa7b.chunk.js": "/Profile/static/js/2.e7d0fa7b.chunk.js",
+    "static/js/2.e7d0fa7b.chunk.js.map": "/Profile/static/js/2.e7d0fa7b.chunk.js.map",
+    "index.html": "/Profile/index.html",
+    "static/css/2.267ffeee.chunk.css.map": "/Profile/static/css/2.267ffeee.chunk.css.map",
+    "static/css/main.d42b465c.chunk.css.map": "/Profile/static/css/main.d42b465c.chunk.css.map",
+    "static/js/2.e7d0fa7b.chunk.js.LICENSE.txt": "/Profile/static/js/2.e7d0fa7b.chunk.js.LICENSE.txt",
+    "static/media/angular.c70a983f.png": "/Profile/static/media/angular.c70a983f.png",
+    "static/media/control.b2e38e02.mp4": "/Profile/static/media/control.b2e38e02.mp4",
+    "static/media/cpp.6ca49086.png": "/Profile/static/media/cpp.6ca49086.png",
+    "static/media/cs.f5787393.png": "/Profile/static/media/cs.f5787393.png",
+    "static/media/css.5cdb8d24.png": "/Profile/static/media/css.5cdb8d24.png",
+    "static/media/electronics.a0c8a5a4.mp4": "/Profile/static/media/electronics.a0c8a5a4.mp4",
+    "static/media/gangalal.874fea6d.jpg": "/Profile/static/media/gangalal.874fea6d.jpg",
+    "static/media/java.0e00a568.png": "/Profile/static/media/java.0e00a568.png",
+    "static/media/mongodb.15d9a29a.png": "/Profile/static/media/mongodb.15d9a29a.png",
+    "static/media/php.f7891564.png": "/Profile/static/media/php.f7891564.png",
+    "static/media/python.44a7fd6d.png": "/Profile/static/media/python.44a7fd6d.png",
+    "static/media/react.06fec591.png": "/Profile/static/media/react.06fec591.png",
+    "static/media/turtlebot.d28cd2e1.mp4": "/Profile/static/media/turtlebot.d28cd2e1.mp4",
+    "static/media/video.b41ede8e.mp4": "/Profile/static/media/video.b41ede8e.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b83a0fb6.js",
+    "static/css/2.267ffeee.chunk.css",
+    "static/js/2.e7d0fa7b.chunk.js",
+    "static/css/main.d42b465c.chunk.css",
+    "static/js/main.d6b5c610.chunk.js"
+  ]
+}
