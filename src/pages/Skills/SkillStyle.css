@@ -1,0 +1,25 @@
+  .skill{
+    padding-top: 9px;
+    text-size-adjust: auto;
+    font-size: 27px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.focus {
+  transition: transform 0.31s;
+}
+
+.focus:hover {
+  transform: scale(1.03);
+}
+
+.cardTitle {
+  font-size: 20px;
+  font-weight: 700;
+  color:black
+}
+
+.imageStyle {
+  width: 3.1em;
+}
