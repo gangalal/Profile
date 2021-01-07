@@ -20,10 +20,10 @@ const AboutElement = () => {
             <div>
               I graduated from the University of Oklahoma in Jan 2020 with a
               Computer Engineering major. Creating intelligent autonomous robots
-              using electronics components, and applying control theory, signal
-              processing, reinforcement learning, and AI algorithms is my hobby.
-              Outside of robotics, I am interested in developing web/mobile
-              applications and firmware software development.
+              using electronics components, applying control theory, signal
+              processing, reinforcement learning, and AI algorithm is my hobby.
+              Outside of robotics, I am interested in web/mobile/desktop
+              Application and firmware software development.
             </div>
           </Col>
         </Row>

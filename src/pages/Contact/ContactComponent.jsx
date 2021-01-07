@@ -11,7 +11,7 @@ import "./ContactStyle.css";
 
 const ContactComponent = () => {
   return (
-    <div id="contact">
+    <div id="contact" className="mb">
       <Jumbotron fluid className="jumbotronColor">
         <h1 className="heading"> Contact Me!</h1>
         <br />

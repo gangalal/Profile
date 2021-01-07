@@ -19,7 +19,7 @@ const ProjectElement = () => {
             <ReactPlayer
               url={electronics}
               width="100%"
-              height="65%"
+              height="60%"
               controls="true"
               muted="true"
               margin="10px 10px"
@@ -27,14 +27,15 @@ const ProjectElement = () => {
             <div className="d-flex justify-content-around flex-column">
               This was the final project from my electronics lab class. Robots
               were built from scratch using electronics components such as
-              MOSFET, BJT, Op-amps, 555-timers, and sensors.
+              MOSFET, BJT, Op-amps, 555-timers, and sensors. Also, we were not
+              allowed to use any micro-controller.
             </div>
           </Col>
           <Col md={4} flex-column>
             <ReactPlayer
               url={control}
               width="100%"
-              height="65%"
+              height="60%"
               controls="true"
               muted="true"
             />
@@ -48,7 +49,7 @@ const ProjectElement = () => {
             <ReactPlayer
               url={turtlebot}
               width="100%"
-              height="65%"
+              height="60%"
               controls="true"
               muted="true"
             />
