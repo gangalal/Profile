@@ -9,7 +9,7 @@ import html from "../../assetes/icons/html.png";
 import java from "../../assetes/icons/java.png";
 import python from "../../assetes/icons/python.png";
 import react from "../../assetes/icons/react.png";
-import flask from "../../assetes/icons/flask.png";
+import django from "../../assetes/icons/django.png";
 import spring from "../../assetes/icons/spring.png";
 import azure from "../../assetes/icons/azure.png";
 import mongo from "../../assetes/icons/mongodb.png";
@@ -86,8 +86,8 @@ export const skills = {
     },
     {
       link: "https://en.wikipedia.org/wiki/Flask_(web_framework)",
-      imgSrc: flask,
-      skillName: "Python Flask",
+      imgSrc: django,
+      skillName: "django",
     },
   ],
 

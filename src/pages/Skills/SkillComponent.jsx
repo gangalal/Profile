@@ -86,7 +86,7 @@ const SkillComponent = () => {
               <Card className="focus mt-3 mb-3">
                 <Card.Body>
                   <Card.Title className="text-center  cardTitle">
-                    Frameworks
+                    Backend Frameworks
                   </Card.Title>
                   <hr align="center" width="90%" color="green" />
                   <Card.Text className="card-text d-flex justify-content-start flex-column">
